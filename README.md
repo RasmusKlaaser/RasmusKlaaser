@@ -2,4 +2,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RasmusKlaaser&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasmusKlaaser&layout=compact" />
-![Image Alt Text](https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/10406/1697698080681/front-left-side-47.jpg?impolicy=resize&imwidth=360)
+![Image Alt Text](![image](https://github.com/RasmusKlaaser/RasmusKlaaser/assets/114585868/21902120-b0fc-499b-8aa6-5efeb5257fc7)
+)
