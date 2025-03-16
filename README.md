@@ -5,4 +5,3 @@
 
 ![RasmusKlaaser Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasmusKlaaser&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-<!--<img src="https://raw.githubusercontent.com/RasmusKlaaser/RasmusKlaaser/main/mustangor.jpeg" />
